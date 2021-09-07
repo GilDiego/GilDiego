@@ -1,6 +1,6 @@
 Hey there! 👋
 
-# H1 	* My name is Diego (He/Him) and I'm a Full-Stack Developer. 👨‍💻
+• My name is Diego (He/Him) and I'm a Full-Stack Developer. 👨‍💻
 
 •	My passion is to create web applications that exceed expectations down to the smallest detail. I discovered my passion in 2021 and I've been happily consuming and learning every technology that I can ever since.
 
