@@ -1,4 +1,8 @@
-### Hi there 👋
+Hey there! 
+
+I'm a Full-Stack Developer. My passion is to create web applications that exceed expectations down to the smallest detail. 
+
+Find my contact info in the Contact Section and get to know me!
 
 <!--
 **GilDiego/GilDiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
