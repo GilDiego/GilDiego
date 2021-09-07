@@ -1,20 +1,22 @@
-Hey there! 
+Hey there! 👋
 
-I'm a Full-Stack Developer. My passion is to create web applications that exceed expectations down to the smallest detail. 
+# H1 	* My name is Diego (He/Him) and I'm a Full-Stack Developer. 👨‍💻
 
-Find my contact info in the Contact Section and get to know me!
+•	My passion is to create web applications that exceed expectations down to the smallest detail. I discovered my passion in 2021 and I've been happily consuming and learning every technology that I can ever since.
 
-<!--
-**GilDiego/GilDiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+•	The technologies🌟 I know and love so far are as follows:
+  - JavaScript
+  - TypeScript
+  - Node JS
+  - React JS
+  - Redux
+  - Express JS
+  - PostgreSQL
+  - Sequelize ORM
 
-Here are some ideas to get you started:
+•	I also know how to work with AGILE methodologies⚡, and the tools I more often use are Git and Postman. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•	Don't wait any longer and get to know me! 🏃🏃‍♀‍
+  - diegogilhz@gmail.com
+  - https://www.linkedin.com/in/gil-diego/
+
