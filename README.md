@@ -1,5 +1,5 @@
-<img src="https://github.com/GilDiego/GilDiego/blob/main/Hello%20world.jpg" alt="Hello world!"/>
-
+<!--<img src="https://github.com/GilDiego/GilDiego/blob/main/Hello%20world.jpg" alt="Hello world!"/>-->
+<h1>Hey there! 👋 </h1>
 <h2><b>• My name is Diego (He/Him) and I'm a Full-Stack Developer.</b> 👨‍💻 </h2>
 </br>
 
