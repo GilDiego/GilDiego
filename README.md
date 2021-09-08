@@ -19,7 +19,7 @@
 
 <b>•</b>	I also know how to work with <b>AGILE methodologies</b>⚡, and the tools I more often use are <b>Git</b> and <b>Postman</b>. 
 </br>
-<h3><b>•</b>	Don't wait any longer and <b>get to know me!</b> 🏃🏃‍♀‍
+<h3><b>•</b>	Don't wait any longer and <b>get to know me!</b> 🏃🏃‍♀‍</br>
   - diegogilhz@gmail.com</br>
-  - https://www.linkedin.com/in/gil-diego/</h3>
+  - https://www.linkedin.com/in/gil-diego/</h3></br>
 
