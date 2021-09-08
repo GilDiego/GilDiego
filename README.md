@@ -1,6 +1,6 @@
 <h1>Hey there! 👋 </h1>
 
-<h2>**• My name is Diego (He/Him) and I'm a Full-Stack Developer.** 👨‍💻 </h2>
+<h2><b>• My name is Diego (He/Him) and I'm a Full-Stack Developer.</b> 👨‍💻 </h2>
 
 <h3 align='center'> My passion is to create web applications that exceed expectations down to the smallest detail. I discovered my passion in 2021 and I've been happily consuming and learning every technology that I can ever since. </h3>
 
