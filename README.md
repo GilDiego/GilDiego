@@ -18,7 +18,7 @@
   <b>-</b> Sequelize ORM</br>
 
 <b>•</b>	I also know how to work with <b>AGILE methodologies</b>⚡, and the tools I more often use are <b>Git</b> and <b>Postman</b>. 
-
+</br>
 <b>•</b>	Don't wait any longer and <b>get to know me!</b> 🏃🏃‍♀‍
   - diegogilhz@gmail.com
   - https://www.linkedin.com/in/gil-diego/
