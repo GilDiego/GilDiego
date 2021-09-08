@@ -18,8 +18,8 @@
   <b>-</b> Sequelize ORM </br> -->
   
   <img src="https://github.com/GilDiego/GilDiego/blob/main/Word%20Cloud.png" alt="Word Cloud"/>
-<b>•</b>	🌟 Ask me about: JavaScript, TypeScript, HTML, CSS, Node JS, React, Redux, Express JS, PostgreSQL, Sequelize.  
-<b>•</b>	I also know how to work with <b>AGILE methodologies</b>⚡, and the tools I more often use are <b>Git</b> and <b>Postman</b>. 
+<b>•	🌟 Ask me about: JavaScript, TypeScript, HTML, CSS, Node JS, React, Redux, Express JS, PostgreSQL, Sequelize. </br>  
+•	I also know how to work with <b>AGILE methodologies</b>⚡, and the tools I more often use are <b>Git</b> and <b>Postman</b>. </b>
 </br>
 <h3><b>•</b>	Don't wait any longer and <b>get to know me!</b> 🏃🏃‍♀‍</br>
   - diegogilhz@gmail.com </br>
